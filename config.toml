@@ -1,0 +1,4 @@
+baseURL = 'https://substrait.com/'
+languageCode = 'en-us'
+title = 'Substrait, LLC'
+theme = "ananke"
